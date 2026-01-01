@@ -3430,7 +3430,7 @@ msgstr ""
 
 #: app/Gedcom.php:499
 msgid "Character set"
-msgstr "Bộ Chử"
+msgstr "Bộ ký tự"
 
 #: resources/views/admin/modules.phtml:224
 #: resources/views/admin/modules.phtml:227
